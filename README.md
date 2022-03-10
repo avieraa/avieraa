@@ -1,9 +1,3 @@
-## 🙋‍♂️ About Me:
-
-- 🌱 I'm still learning about programming.
-
-- 📪 Kontak saya di Discord **LimXuan#1111**
-
 ## 🛠 Language % Tools:
 
 <p align="left"> 
