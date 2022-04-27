@@ -1,13 +1,15 @@
-## 🛠 Language:
+Web Developer & Designer
+------------------------
 
-<p align="left"> 
-    <a href="" target="_blank"> <img src="https://cdn.discordapp.com/attachments/830540562448121876/951371225698017300/nextjs.png"/> </a>
-</p>
+* 🌍  I'm based in Indonesia
+* ✉️  You can contact me at [sutoveesensei@gmail.com](mailto:sutoveesensei@gmail.com)
+* 🧠  I'm learning Java
 
-## 📊 My Github Stats:
 
-  <br/>
-    <a href="https://github.com/leeyanxuan/github-readme-stats"><img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=leeyanxuan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/xxRAVENS/github-readme-stats"><img alt="My Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeyanxuan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+### Socials
 
-<br/>
+<p align="left"> <a href="https://www.github.com/avieraa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vierr.co" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/avieraa"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
