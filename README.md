@@ -3,8 +3,6 @@ Web Developer & Designer
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [sutoveesensei@gmail.com](mailto:sutoveesensei@gmail.com)
-* 🧠  I'm learning Java
-
 
 ### Socials
 
